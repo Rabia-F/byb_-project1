@@ -1,2 +1,2 @@
-# print Hello World!
-print("Hello World!")
+# print Git is Awesome
+print("Git is Awesome")

@@ -1,1 +1,1 @@
-Its part of BYB task requirement
+It contains a simple python print command
